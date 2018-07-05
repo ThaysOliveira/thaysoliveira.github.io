@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About - Vitor Nazário Coelho"
+title: "About - Thays Aparecida de Oliveira"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -15,21 +15,24 @@ layouts_gallery:
 last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
-# Welcome to Vitor Nazário Coelho portal
+# Welcome to Thays Aparecida de Oliveira portal
 > Scientist engaged in scientific and social causes
 
 > It is time for embedding privacy in our daily life.
 
-Updated CV can be found at: [LATTES - CV](http://lattes.cnpq.br/8931047228585695)
+Updated CV can be found at: [LATTES - CV](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4335047P6)
 
 ### About Me
 
 Researcher engaged in social, scientific causes, supporting social and software freedom.
 
-* Post-Doctorate in progress, in partnership with the Universidade Federal Fluminense, supported by the PDR-10/FAPERJ program.
+* Doctorate in progress at the Department of Engineering and Information & Communication Technologies at Universitat Pompeu Fabra, Barcelona, Spain
 * Doctor in Electrical Engineering, in the field of Computational Intelligence, by the Pós-Graduação em Engenharia Elétrica (PPGEE) the Universidade Federal de Minas Gerais (UFMG), with an exchange period at the University of Sheffield (England), in partnership with the Rolls Royce Technology Center in Control and Systems Engineering, and at ORT Braude College of Engineering (Israel), as a Marie Curie researcher for the European Commission as part of the Seventh Framework Program.
 * Bachelor's degree in Control Engineering and Automation by the Universidade Federal de Ouro Preto (UFOP) with sandwich period, funded by the Sciences without Borders program, at Universat Pompeu Fabra (Barcelona / Spain).
 * Technician in Electronic Instrumentation and Process Control by the Instituto Federal de Minas Gerais with internship at the mining area of Alegria, working for the VALE S. A.
+
+
+Thays Aparecida de Oliveira received the B.S. in Business from Fedederal University of Ouro Preto, Brazil, the M.S. degree in Strategic Management, Marketing and Innovation  in 2016 at the Federal University of Lavras, Brazil. Currently, working as a PhD Researcher at the Department of Engineering and Information & Communication Technologies at Universitat Pompeu Fabra, Barcelona, Spain. Her research interests include citizens; works with population integration in urban centers, applying personal and web questionnaires; studies including consumer and citizens behavior. In the technological area, she is working in the PhD the relation between digital cities and citizens, understand the citizens' necessities in the cities.
 
 
 The main area I have been acting is artificial intelligence, focusing on the following research topics: mono and multi-objective combinatorial optimization, metaheuristics, trajectory search algorithms, evolutionary computation, evolutionary strategies, mathematical programming, optimization techniques applied to smart-microgrids, Renewable energy integration with mini/microgrid systems, autonomy of intelligent networks, energy storage management, vehicle-to-grid (V2G) integration technologies, mining planning, multi-agent systems, time series forecasting methods, machine learning, scheduling/timetabling, vehicle routing, operational and marketing research, adaptive and self-calibrated PID controllers, and development of computational frameworks.
