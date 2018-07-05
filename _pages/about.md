@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About - Vitor Nazário Coelho"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
