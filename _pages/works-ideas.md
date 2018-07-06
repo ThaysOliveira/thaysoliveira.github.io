@@ -5,7 +5,7 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
-# Open Research and ideas
+# Projects
 
 Contributions are always welcome.
 Fell free to contact me or any other contributor and ask for a read & edit link.

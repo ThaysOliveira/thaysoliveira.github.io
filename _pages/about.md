@@ -16,41 +16,36 @@ last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
 # Welcome to Thays Aparecida de Oliveira portal
-> Scientist engaged in scientific and social causes
+> Scientist engaged in social causes and technologies.
 
-> It is time for embedding privacy in our daily life.
 
 Updated CV can be found at: [LATTES - CV](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4335047P6)
 
 ### About Me
 
-Researcher engaged in social, scientific causes, supporting social and software freedom.
 
-* Doctorate in progress at the Department of Engineering and Information & Communication Technologies at Universitat Pompeu Fabra, Barcelona, Spain
-* Doctor in Electrical Engineering, in the field of Computational Intelligence, by the Pós-Graduação em Engenharia Elétrica (PPGEE) the Universidade Federal de Minas Gerais (UFMG), with an exchange period at the University of Sheffield (England), in partnership with the Rolls Royce Technology Center in Control and Systems Engineering, and at ORT Braude College of Engineering (Israel), as a Marie Curie researcher for the European Commission as part of the Seventh Framework Program.
-* Bachelor's degree in Control Engineering and Automation by the Universidade Federal de Ouro Preto (UFOP) with sandwich period, funded by the Sciences without Borders program, at Universat Pompeu Fabra (Barcelona / Spain).
-* Technician in Electronic Instrumentation and Process Control by the Instituto Federal de Minas Gerais with internship at the mining area of Alegria, working for the VALE S. A.
+* PhD in progress at the Department of Engineering and Information & Communication Technologies at Universitat Pompeu Fabra, Barcelona, Spain.
+My research interests include citizens; works with population integration in urban centers, applying personal and web questionnaires; studies including consumer and citizens behavior.
+In the technological area, I'm working in the PhD the relation between digital cities and citizens, understand the citizens' necessities in the cities.
 
-
-Thays Aparecida de Oliveira received the B.S. in Business from Fedederal University of Ouro Preto, Brazil, the M.S. degree in Strategic Management, Marketing and Innovation  in 2016 at the Federal University of Lavras, Brazil. Currently, working as a PhD Researcher at the Department of Engineering and Information & Communication Technologies at Universitat Pompeu Fabra, Barcelona, Spain. Her research interests include citizens; works with population integration in urban centers, applying personal and web questionnaires; studies including consumer and citizens behavior. In the technological area, she is working in the PhD the relation between digital cities and citizens, understand the citizens' necessities in the cities.
+* Master degree in Strategic Management, Marketing and Innovation  in 2016 at the Federal Universidade Federal de Lavras (UFLA), Brazil.
+* Bachelor's degree in Business at the Universidade Federal de Ouro Preto (UFOP), Brazil.
 
 
+<!---
 The main area I have been acting is artificial intelligence, focusing on the following research topics: mono and multi-objective combinatorial optimization, metaheuristics, trajectory search algorithms, evolutionary computation, evolutionary strategies, mathematical programming, optimization techniques applied to smart-microgrids, Renewable energy integration with mini/microgrid systems, autonomy of intelligent networks, energy storage management, vehicle-to-grid (V2G) integration technologies, mining planning, multi-agent systems, time series forecasting methods, machine learning, scheduling/timetabling, vehicle routing, operational and marketing research, adaptive and self-calibrated PID controllers, and development of computational frameworks.
+-->
 
-
-Participant of the Grupo de Otimização e Algoritmos (GOAL/UFOP), LAGO/UFF, Machine Intelligence and Data Science (MINDS/UFMG).
-Member of the Instituto de Pesquisa e Desenvolvimento de Tecnologias (IPDT), Ouro Preto/MG, Brazil.
-
-One of the idealizerers of the [Grupo da Causa Humana](https://github.com/CausaHumana) (GCH), Ouro Preto/MG, Brazil, [Creating.City](https://github.com/CreatingCity) and [NeoResearch Community](https://github.com/NeoResearch).
+Participant of the [Grupo da Causa Humana](https://github.com/CausaHumana) (GCH), Ouro Preto/MG, Brazil, [Creating.City](https://github.com/CreatingCity) and [NeoResearch Community](https://github.com/NeoResearch).
 
 I have been effectively working and researching on solving combinatorial optimization problems for real-world applications, spreading this knowledge and software to small, medium and large size global companies (such as INDITEX).
 
-Check my [LATTES - CV](http://lattes.cnpq.br/8931047228585695), usually it is the one that is most updated, with current projects and conference papers.
+Check my [LATTES - CV](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4335047P6), usually it is the one that is most updated, with current projects and conference papers.
 While most parts are in Portuguese :) I believe you gonna have an interesting journey throughout my mother language, which, is, by the way, a beautiful language (such as the others ones).
 
 ### EDUCATION
 
-* **2016/2018** Post-Doc researcher in partnership with the Institute of Computer Science at Universidade Federal Fluminense (Brazil), under the scope of FAPERJ Pós-Doutorado Nota 10.
+* **2016/Until now** PhD researcher in partnership with the Institute of Computer Science at Universidade Federal Fluminense (Brazil), under the scope of FAPERJ Pós-Doutorado Nota 10.
 * **2013/2016** Ph.D. in Electrical Engineering at Universidade Federal de Minas Gerais (Brazil) with sandwich at University of Sheffield (England) and ORT Braude College (Israel).
 * **2009/2013** Five-years Bachelor in Control and Automation Engineering at Universidade Federal de Ouro Preto (Brazil) with sandwich period at Universitat Pompeu Fabra (Spain).
 * **2006/2009** Technical in Electronic Instrumentation and High School at Instituto Federal de Minas Gerais, Brazil
