@@ -7,7 +7,9 @@ toc: true
 ---
 # Projects
 
-Contributions are always welcome.
+
+
+Contributions are always welcomee.
 Fell free to contact me or any other contributor and ask for a read & edit link.
 Source files, codes, experiments and everything we used in each project is usually open.
 
